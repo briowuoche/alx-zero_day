@@ -1,1 +1,1 @@
-echo 'Up to date' > README.md
+git pull
